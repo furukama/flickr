@@ -1,6 +1,7 @@
 #-------------------------------------------------------------------
 # Downloading Instagram pictures for a certain hashtag or a location
 # Benedikt Koehler, 2013
+# @furukama
 #-------------------------------------------------------------------
 
 library(RCurl)
