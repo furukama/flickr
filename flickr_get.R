@@ -1,5 +1,5 @@
 #-------------------------------------------------------------------
-# Downloading Instagram pictures for a certain hashtag or a location
+# Downloading Flickr pictures for a certain hashtag or a location
 # Benedikt Koehler, 2013
 # @furukama
 #-------------------------------------------------------------------
@@ -8,7 +8,7 @@ library(RCurl)
 library(rjson)
 
 # Login credentials
-api.key <- "" # API key for Instagram API goes here
+api.key <- "" # API key for Flickr API goes here
 
 # Search data: either hashtag or location (bbox = Bounding Box)
 hashtag <- ""
